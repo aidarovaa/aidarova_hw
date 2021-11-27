@@ -9,10 +9,11 @@
 //
 // const car = new Transport
 //
+//fff
 //
 //
-//
-// road, rail, sea, air
+// road, ra
+// il, sea, air
 //
 
 class Transport {
