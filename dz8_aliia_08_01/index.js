@@ -14,6 +14,6 @@ class User {
     }
 }
 
-const jack = new User("Jack", "123")
-console.log(jack)
-jack.login("Jack", "123")
+const geektech = new User("Geektech", "052018")
+console.log(geektech)
+geektech.login("Geektech", "052018")
